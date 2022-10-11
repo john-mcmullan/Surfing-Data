@@ -1,5 +1,7 @@
 # Surf’s Up Final analysis
 
+Every surfer is looking for the perfect day to surf, while weather changes day to day and can be hard to predict we are going to take the 2016-17 year to predict which months are going to be the best months to surf.
+
 ## Clear Skies
 
 The data was used to identify the best day to go surfing in the 2016-2017 season. That means there can be no rain:
